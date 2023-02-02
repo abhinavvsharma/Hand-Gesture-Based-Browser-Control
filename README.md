@@ -1,1 +1,1 @@
-# Hand-Gesture-Based-Browser-Control
+# Hand-Gesture Based Browser Control
